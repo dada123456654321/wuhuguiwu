@@ -30,7 +30,8 @@ let cookiesArr = [], cookie = '', jdFruitShareArr = [], isBox = false, notify, n
 let shareCodes = [ // 这个列表填入你要助力的好友的shareCode
    //账号一的好友shareCode,不同好友的shareCode中间用@符号隔开
   '1d066b61c27b4a1da08b56b24b912c02',
-  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
+  '1d066b61c27b4a1da08b56b24b912c02',
+  '1d066b61c27b4a1da08b56b24b912c02',
   '1d066b61c27b4a1da08b56b24b912c02',
 ]
 let message = '', subTitle = '', option = {}, isFruitFinished = false;
