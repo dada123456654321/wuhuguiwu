@@ -35,7 +35,8 @@ const JD_API_HOST = 'https://api.m.jd.com/client.action';
 let shareCodes = [ // IOS本地脚本用户这个列表填入你要助力的好友的shareCode
                    //账号一的好友shareCode,不同好友的shareCode中间用@符号隔开
   '4npkonnsy7xi2vjujzlfocj73zz5c46u2um6r3a',
-  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
+  '4npkonnsy7xi2vjujzlfocj73zz5c46u2um6r3a',
+  '4npkonnsy7xi2vjujzlfocj73zz5c46u2um6r3a',
   '4npkonnsy7xi2vjujzlfocj73zz5c46u2um6r3a',
 ]
 let currentRoundId = null;//本期活动id
